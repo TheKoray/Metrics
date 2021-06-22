@@ -1,2 +1,3 @@
 # Metrics
-Sklearn.metrics hata metriklerini kendim oluşturdum
+
+Sklearn.metrics Regresyon Hata Metriklerini kendim oluşturdum.
