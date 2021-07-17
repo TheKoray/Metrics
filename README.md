@@ -14,4 +14,4 @@
 - 
 # Root Mean Squared Error
 
-![Root Mean Squared Error](https://miro.medium.com/max/966/1*lqDsPkfXPGen32Uem1PTNg.png)
+![Root Mean Squared Error](https://community.qlik.com/legacyfs/online/128958_2016-06-23%2013_45_36-Root%20Mean%20Squared%20Error%20_%20Kaggle.png)
