@@ -19,3 +19,6 @@
 - Root Mean Squared Error ; Ortalama Kare Hatasının Kareköküdür.
 - Root Mean Squared Error değerinin iyi ya da kötü olduğunu anlamak için **Bağımlı Değişkenin** varyansı ile karşılaştırırız.
 - Root Mean Squared Error , **Residuals**'ın **Standart Sapmasıdır**.
+
+# Mean Absolute Error 
+![Mean Absolute Error](https://www.statisticshowto.com/wp-content/uploads/2016/10/MAE.png)
