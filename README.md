@@ -21,6 +21,7 @@
 - Root Mean Squared Error , **Residuals**'ın **Standart Sapmasıdır**.
 
 # Mean Absolute Error 
+
 ![Mean Absolute Error](https://www.statisticshowto.com/wp-content/uploads/2016/10/MAE.png)
 
 - **Mean Absolute Error**; İki sürekli değişken arasındaki farkın ölçüsüdür.
