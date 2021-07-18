@@ -22,3 +22,6 @@
 
 # Mean Absolute Error 
 ![Mean Absolute Error](https://www.statisticshowto.com/wp-content/uploads/2016/10/MAE.png)
+
+- **Mean Absolute Error**; İki sürekli değişken arasındaki farkın ölçüsüdür.
+- **Mean Absolute Error**; Her gerçek değer ile veriye en iyi uyan çizgi arasında ki ortalama dikey mesafedir.
