@@ -26,3 +26,7 @@
 
 - **Mean Absolute Error**; İki sürekli değişken arasındaki farkın ölçüsüdür.
 - **Mean Absolute Error**; Her gerçek değer ile veriye en iyi uyan çizgi arasında ki ortalama dikey mesafedir.
+
+# Mean Squared Log Error 
+
+![Mean Squared Log Error](https://lindevs.com/wp-content/uploads/2020/10/formula_to_calculate_msle.png)
