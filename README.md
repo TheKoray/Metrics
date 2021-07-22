@@ -1,5 +1,6 @@
 # Metrics
 
+![Regression](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/400px-Linear_regression.svg.png)
 
 # Mean Squared Error
 
