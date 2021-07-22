@@ -1,6 +1,6 @@
 # Metrics
 
-![Regression](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/400px-Linear_regression.svg.png)
+![Regression](https://w7.pngwing.com/pngs/612/141/png-transparent-linear-regression-regression-analysis-machine-learning-lasso-variables-line-angle-text-triangle.png)
 
 - Metrics, Regresyon modellerimizin hatasını hesaplarken kullandığımız hata metriklerimizdir.
 
