@@ -2,7 +2,7 @@
 
 ![Regression](https://w7.pngwing.com/pngs/612/141/png-transparent-linear-regression-regression-analysis-machine-learning-lasso-variables-line-angle-text-triangle.png)
 
-- Metrics, Regresyon modellerimizin hatasını hesaplarken kullandığımız hata metriklerimizdir.
+- Metrikler,Regresyon modellerimizin hatasını hesaplarken kullandığımız hata metriklerimizdir.
 
 # Mean Squared Error
 
