@@ -2,6 +2,8 @@
 
 ![Regression](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/400px-Linear_regression.svg.png)
 
+- Metrics, Regresyon modellerimizin hatasını hesaplarken kullandığımız hata metriklerimizdir.
+
 # Mean Squared Error
 
 ![Mean Squared Error](https://pbs.twimg.com/media/Etuc3lBXcAEH7wO.png)
